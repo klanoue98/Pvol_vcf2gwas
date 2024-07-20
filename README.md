@@ -83,3 +83,5 @@ Refer to results file to see the created output data tables that correspond to t
 ![p_wald_qq_Sex_mod_sub_units_TotalRawSNPs](https://github.com/user-attachments/assets/005986db-bc31-4d6a-a6b9-d1bf88d04dc5)
 ![p_wald_manh_Sex_mod_sub_units_TotalRawSNPs](https://github.com/user-attachments/assets/8c6d7066-1cab-4cf5-8e33-26b7e7eca63e)
 
+# Citations
+Frank Vogt, Gautam Shirsekar, Detlef Weigel, vcf2gwas: Python API for comprehensive GWAS analysis using GEMMA, Bioinformatics, Volume 38, Issue 3, February 2022, Pages 839–840, https://doi.org/10.1093/bioinformatics/btab710
