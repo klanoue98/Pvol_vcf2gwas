@@ -1,0 +1,16 @@
+SNP_ID,SNP_pos,chr,p_value,phenotypes
+"scaffold_82_pilon:136042\A,\T",136042,scaffold_82_pilon,0.0,Sex
+"scaffold_82_pilon:140197\G,\T",140197,scaffold_82_pilon,0.0,Sex
+"scaffold_82_pilon:115727\C,\T",115727,scaffold_82_pilon,2.020835e-09,Sex
+"scaffold_82_pilon:113772\T,\C",113772,scaffold_82_pilon,3.563208e-08,Sex
+"scaffold_29_pilon:1996202\C,\T",1996202,scaffold_29_pilon,4.270546e-08,Sex
+"chromosome_7_pilon:8206272\T,\A",8206272,chromosome_7_pilon,4.404279e-08,Sex
+"scaffold_82_pilon:128473\T,\C",128473,scaffold_82_pilon,4.404279e-08,Sex
+"scaffold_82_pilon:115544\T,\C",115544,scaffold_82_pilon,4.404279e-08,Sex
+"scaffold_82_pilon:139302\T,\C",139302,scaffold_82_pilon,4.404279e-08,Sex
+"chromosome_6_pilon:3707681\G,\T",3707681,chromosome_6_pilon,4.404279e-08,Sex
+"scaffold_65_pilon:1747083\T,\C",1747083,scaffold_65_pilon,4.404279e-08,Sex
+"scaffold_82_pilon:174646\T,\C",174646,scaffold_82_pilon,4.404279e-08,Sex
+"scaffold_82_pilon:144384\T,\G",144384,scaffold_82_pilon,4.404279e-08,Sex
+"chromosome_6_pilon:3707669\A,\G",3707669,chromosome_6_pilon,4.404279e-08,Sex
+"scaffold_82_pilon:152635\G,\A",152635,scaffold_82_pilon,4.404279e-08,Sex
