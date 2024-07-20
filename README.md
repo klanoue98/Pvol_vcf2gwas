@@ -48,7 +48,7 @@ Phenotype file
 - Dscribes the phenotype(s) that are used in GEMMA
 - need to be in csv format
 - col1. IDs of individuals (10 males; 10 females) that match IDs in VCF file provided
-- next column titled phenotype "sex", data is binary, denoting males as "1" and females as "0"
+- col2. contains phenotype "sex", as binary; males="1" and females="0"
 
 Covariate file (Optional)
 - used to provide covariates for the GEMMA analysis when running the linear model or the linear mixed model
@@ -61,10 +61,12 @@ Relatedness Matrix (optional)
 - to perform GWAS, GEMMA needs a relatedness matrix, which vcf2gwas will calculate by default.
 
 **Run script vcf2gwas.sh if using program on a slurm cluster**
+Run Time
+Quality control 10:35:55
+SNPs filtered 00:04:35
 
 ## Output
-Quality control successful (Duration: 10 hours, 35 minutes, 55.2 seconds)
-SNPs successfully filtered (Duration: 4 minutes, 35.3 seconds)
+
 Aftr filtering in pipeline; going into GEMMA
  - number of total SNPs/var        =  7957630
  - number of analyzed SNPs         =  6873119
