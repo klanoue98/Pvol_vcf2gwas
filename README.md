@@ -78,16 +78,8 @@ Number of total SNPs: 6873119
 
 Output will be saved in $WORK/Output/Linear_Model/Sex/Sex_20240304_115014/
 
-Variants with the best p_wald score saved in $WORK/Output/Linear_Model/Sex/Sex_20240304_115014/best_p-values
+Refer to results file to see the created output data tables that correspond to the following graphs
 
-Manhattan plot saved as "p_wald_manh_Sex_mod_sub_units_TotalRawSNPs.png" in $WORK/Output/Linear_Model/Sex/Sex_20240304_115014/manhattan 
+![p_wald_qq_Sex_mod_sub_units_TotalRawSNPs](https://github.com/user-attachments/assets/005986db-bc31-4d6a-a6b9-d1bf88d04dc5)
+![p_wald_manh_Sex_mod_sub_units_TotalRawSNPs](https://github.com/user-attachments/assets/8c6d7066-1cab-4cf5-8e33-26b7e7eca63e)
 
-QQ-plot saved as "p_wald_qq_Sex_mod_sub_units_TotalRawSNPs.png" in $WORK/Output/Linear_Model/Sex/Sex_20240304_115014/QQ
-
-Top SNPs summarized and saved as "summarized_top_SNPs_complete_units_TotalRawSNPs.csv" in $WORK/Output/Linear_Model/Summary/summary_units_TotalRawSNPs_20240304_115014
-
-Significant SNPs summarized and saved as "summarized_sig_SNPs_complete_units_TotalRawSNPs.csv" in $WORK/Output/Linear_Model/Summary/summary_units_TotalRawSNPs_20240304_115014
-
-Merged (top + significant) SNPs summarized and saved as "summarized_merge_SNPs_complete_units_TotalRawSNPs.csv" in $WORK/Output/Linear_Model/Summary/summary_units_TotalRawSNPs_20240304_115014
-
-Quality control files moved to $WORRK/Output/Linear_Model/QC
